@@ -21,6 +21,6 @@ B
 
 
 ## Colaboration
-/n
-Salvador Salgado A01422874 (Chava_27) /n
-Jorge Tamariz A01367223
+<br/>
+Salvador Salgado A01422874 (Chava_27) </br>
+Jorge Tamariz A01367223 </br>
