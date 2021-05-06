@@ -37,13 +37,13 @@ def square(start, end):
 def circle(start, end):
     "Draw circle from start to end."
     i=Turtle()
-    i.hideturtle()
     i.up()
     i.goto(start.x,start.y)
     i.down()
     i.begin_fill()
     i.circle(end.x-start.x)
     i.end_fill()
+    i.hideturtle()
     
 
 def rectangle(start, end):
@@ -56,7 +56,7 @@ def rectangle(start, end):
     for count in range(4):
         forward(end.x - start.x)
         left(90)
-        forward(endy. - start.y)
+        forward(end.y - start.y)
         left(90)
 
     end_fill()
