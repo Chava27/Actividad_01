@@ -11,14 +11,31 @@ En esta actividad se busca que el equipo comience a familiarizarse con el uso de
 
 Este programa tiene como objetivo simular la famosa aplicación de paint. Nuestro programa cuenta con distinitos modos de dibujo al igual que varias opciones de colores para nuestras figuras.
 
-## Opciones de dibujo (segúl la tecla que el ususario presione)
-
-K 
-W
-G
-B
-
-
+## Opciones de dibujo (según la tecla que el ususario presione)
+### Editar Color
+K - Negro
+</br>
+W - Blanco
+</br>
+G - Verde
+</br>
+B - Azul
+</br>
+R - Rojo
+</br>
+M - Magenta *Color Agregado al original
+</br>
+### Editar Modo de Dibujo
+l - Linea
+</br>
+s - Cuadrado
+</br>
+c - Rectángulo
+</br>
+t - Triángulo
+</br>
+Para cada modo fue necesario crear distintas funciones las cuales serán llamadas según la teclea presionada (onkey).
+</br>
 
 ## Colaboration
 <br/>
