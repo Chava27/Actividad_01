@@ -36,16 +36,6 @@ def square(start, end):
 
 def circ(start, end):
     "Draw circle from start to end."
-<<<<<<< HEAD
-    i=Turtle()
-    i.up()
-    i.goto(start.x,start.y)
-    i.down()
-    i.begin_fill()
-    i.circle(end.x-start.x)
-    i.end_fill()
-    i.hideturtle()
-=======
     hideturtle()
     up()
     goto(start.x,start.y)
@@ -53,8 +43,7 @@ def circ(start, end):
     begin_fill()
     circle(end.x-start.x)
     end_fill()
->>>>>>> Rama_Chava_27
-    
+
 
 def rectangle(start, end):
     "Draw rectangle from start to end."
