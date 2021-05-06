@@ -34,9 +34,8 @@ c - Rectángulo
 </br>
 t - Triángulo
 </br>
-Para cada modo fue necesario crear distintas funciones las cuales serán llamadas según la teclea presionada (onkey).
 </br>
-
+Para cada modo fue necesario crear distintas funciones las cuales serán llamadas según la teclea presionada (onkey).
 ## Colaboration
 <br/>
 Salvador Salgado A01422874 (Chava_27) </br>
