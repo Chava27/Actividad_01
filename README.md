@@ -30,12 +30,17 @@ l - Linea
 </br>
 s - Cuadrado
 </br>
-c - Rectángulo
+r - Rectángulo
+</br>
+c - Círculo
 </br>
 t - Triángulo
 </br>
 </br>
 Para cada modo fue necesario crear distintas funciones las cuales serán llamadas según la teclea presionada (onkey).
+</br>
+Asi mismo hcimos modificaciones en las líneas 38 a 43, de la 47 a la 58, de la 62 a la 71 y la 99.
+Todos estas modificaciones fueron hechas para optimizar los "juegos" que aparecen en Free Python Games
 ## Colaboration
 <br/>
 Salvador Salgado A01422874 (Chava_27) </br>
