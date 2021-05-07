@@ -41,6 +41,19 @@ Para cada modo fue necesario crear distintas funciones las cuales serán llamada
 </br>
 Asi mismo hcimos modificaciones en las líneas 38 a 43, de la 47 a la 58, de la 62 a la 71 y la 99.
 Todos estas modificaciones fueron hechas para optimizar los "juegos" que aparecen en Free Python Games
+</br>
+
+## Creación Círculo (Chava27)
+Para la creación de la función circulo fue necesario renombrar la función a  circ() a partir de la linea 37, ya que su nombre anterior estaba causando
+problemas al momento de utilizar la función circle de turtle. Con esto en mente el programa toma la distancia del primer click en la pantalla con respecto al segundo click, para así calcular el radio del círculo. Despúes de crear el contorno se utilizó la función end_fill() para rellenar el círculo.
+
+## Añadir color extra (Chava27)
+Para esta función fue necesario agregar una nueva función onkey en la línea 102, la cual se le asignaba la tecla M con el color magenta, 
+por lo que el usuario al presionar esta el color cambiaria al deseado.
+
+
+
+
 ## Colaboration
 <br/>
 Salvador Salgado A01422874 (Chava_27) </br>
