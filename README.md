@@ -39,4 +39,4 @@ Para cada modo fue necesario crear distintas funciones las cuales serán llamada
 ## Colaboration
 <br/>
 Salvador Salgado A01422874 (Chava_27) </br>
-Jorge Tamariz A01367223 </br>
+Jorge Tamariz A01367223 (Jorge-TL)</br>
