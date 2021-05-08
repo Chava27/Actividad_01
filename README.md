@@ -52,10 +52,10 @@ Para esta función fue necesario agregar una nueva función onkey en la línea 1
 por lo que el usuario al presionar esta el color cambiaria al deseado.
 
 ## Crear triángulo (Jorge-TL)
-Para crear la función de triangulo se basó en el codigo presentado en el cuadrado, al notar que es una lienea que avanza la distancia entre los clik y va girando ciertos grados que son predeterminados, en este caso gira 120 grados a la izquiera para formar el angulo interno de 60 que identidfica a los triangulos equilateros, y al ser un tringulo solo repite 3 veces la indicacion de avanzar y rotar para cerrar la figura
+Para crear la función de triángulo se basó en el código presentado en el cuadrado, al notar que es una línea que avanza la distancia entre los click y va girando ciertos grados que son predeterminados, en este caso gira 120 grados a la izquierda para formar el angulo interno de 60 que identifica a los triángulos equiláteros, y al ser un triángulo solo repite 3 veces la indicación de avanzar y rotar para cerrar la figura
 
 ## Crear rectángulo (Jorge-TL)
-Para el rectangulo se basó aun más en el codigo del cuadrado ya que son figuras similares solo que ahora avanza 2 ocaciones por ciclo, primero va la distancia entre las x y después entre las y, así formamos los dos lados distintos y se repite el cilco una segunda vez para terminar de cerrar la figura y al igual que el cuadrado avanza de 90 en 90 grados para tener las esquinas del cuerpo.
+Para el rectángulo se basó aún más en el código del cuadrado ya que son figuras similares solo que ahora avanza 2 ocasiones por ciclo, primero va la distancia entre las X y después entre las y, así formamos los dos lados distintos y se repite el ciclo una segunda vez para terminar de cerrar la figura y al igual que el cuadrado avanza de 90 en
 
 ## Colaboration
 <br/>
