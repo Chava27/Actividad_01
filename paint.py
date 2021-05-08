@@ -52,7 +52,7 @@ def rectangle(start, end):
     down()
     begin_fill()
         
-    for count in range(4):
+    for count in range(2):
         forward(end.x - start.x)
         left(90)
         forward(end.y - start.y)
